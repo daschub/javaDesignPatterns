@@ -1,0 +1,15 @@
+Creational
+Many programming languages, known as object-oriented programming languages, have elements called classes and objects.
+An object is a type of data you can create in a program that has a set of attributes. A class is a template you
+can use to create an instance of an object.
+
+For example, you might create a program that uses a car as an object. Two attributes of the car
+are its color and type. You can include these attributes as data for the car object.
+Once you've defined the attributes of the car, you can use multiple classes to create different
+instances of the car object with different attributes, like a class with a red SUV and a class with a blue truck.
+
+Creational design patterns are templates for creating classes and objects. Here are a few examples
+of creational design patterns:
+
+Factory method: You can use the factory method to create an object securely.
+Singleton: The Singleton pattern creates a single instance of a class.
