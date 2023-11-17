@@ -1,0 +1,13 @@
+A behavioral design pattern
+is a template that can help different classes in a program communicate
+with each other to accomplish the program's actions. In other words, these patterns define the way a
+program's objects behave.
+
+Behavioral design patterns also help programmers write efficient algorithms or sequential steps in a program
+that perform a function. A real-world example of an algorithm is a math problem, which often requires a specific
+set of steps to complete. Programs operate in a similar fashion.
+
+State: The state design pattern changes the way an object behaves when its state (meaning its properties, such as
+the color of the car in the example above) changes.
+Mediator: You can use the mediator design pattern when you want to simplify the communications between objects and
+classes in a program.ce of a class.

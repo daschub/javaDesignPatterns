@@ -1,0 +1,13 @@
+A structural design pattern
+is a template for defining the structure and components of a class. These design patterns help programming
+professionals organize multiple classes and objects in their programs. Structural design patterns also
+assist with ensuring the efficiency and flexibility of a program.
+
+Here are a few examples of structural design patterns:
+
+Decorator: The decorator design pattern can help you improve the way an object in a program functions while
+maintaining the object's structure.
+Composite: You can implement a composite design pattern when your program has several objects with similar
+functionalities. This pattern uses a tree structure to organize classes and objects in programs.
+Facade: The facade design pattern provides a user interface that helps make the program easier to use.s a
+single instance of a class.
